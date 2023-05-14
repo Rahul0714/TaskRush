@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TaskRush/static/css/main.07ef343d.css",
+    "main.js": "/TaskRush/static/js/main.058719f3.js",
+    "index.html": "/TaskRush/index.html",
+    "main.07ef343d.css.map": "/TaskRush/static/css/main.07ef343d.css.map",
+    "main.058719f3.js.map": "/TaskRush/static/js/main.058719f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07ef343d.css",
+    "static/js/main.058719f3.js"
+  ]
+}
